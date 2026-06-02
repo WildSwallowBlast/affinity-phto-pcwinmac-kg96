@@ -1,4 +1,4 @@
-# 
+# Lightweight Affinity Photo tools for Mac OS | Official Affinity Photo tools for PC Windows. Featuring fluid-simulation and gradient-tool — optimized for maximum performance on every platform.
 
 
 
